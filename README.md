@@ -12,3 +12,8 @@ Advanced Features:
 - Data persisting beyond sessions
 - Ability to share a link to a timeline created
 - Live editing the same timeline with other team members
+
+## DEPENDENCIES
+npm
+- execute npm install
+- you can run with npm start
