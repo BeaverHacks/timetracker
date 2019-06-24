@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
         <menu className="App-menu">
@@ -10,8 +11,10 @@ function App() {
                 href="http://beaverhacks.now.sh"
             >OSU Hackathon Club</a>
         </menu>
-      <header>Timeline bar will be around here</header>
-      <div className="team-announcement">
+      <header className="App-header">BeaverHacks Summer 2019</header>
+        <div className="progress-bar-wrapper"></div>
+
+        <div className="team-announcement">
 
         <p>
           Create your team's custom timers and tasks.
