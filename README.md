@@ -15,5 +15,7 @@ Advanced Features:
 
 ## DEPENDENCIES
 npm
+
+- npx create-react-app
 - execute npm install
-- you can run with npm start
+- run with npm start
