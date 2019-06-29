@@ -14,14 +14,14 @@ Advanced Features:
 - Live editing the same timeline with other team members
 
 ## DEPENDENCIES
-open up a terminal
-Note: if npm is not installed, install([sudo] npm install npm -g)
-'''git clone https://github.com/BeaverHacks/timetracker.git'''
-'''npm install'''
-'''npm install -g create-react-app'''
-'''npm start'''
-open browser and see running at http:localhost:3000
-If in AWS: 
-change change "start": "react-scripts start" to "start": " PORT=8080 react-scripts start"
+open up a terminal<br>
+Note: if npm is not installed, install([sudo] npm install npm -g)<br>
+'''git clone https://github.com/BeaverHacks/timetracker.git'''<br>
+'''npm install'''<br>
+'''npm install -g create-react-app'''<br>
+'''npm start'''<br>
+open browser and see running at http:localhost:3000<br>
+If in AWS: <br>
+change change "start": "react-scripts start" to "start": " PORT=8080 react-scripts start"<br>
 
 
