@@ -19,14 +19,9 @@ function App() {
         <p>
           Create your team's custom timers and tasks.
         </p>
-        <a
-          className="App-link"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <button>
           Team Timers
-        </a>
+        </button>
       </div>
     </div>
   );
