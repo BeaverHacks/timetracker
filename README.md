@@ -16,7 +16,7 @@ Advanced Features:
 ## DEPENDENCIES
 open up a terminal<br>
 Note: if npm is not installed, install([sudo] npm install npm -g)<br>
-'''git clone https://github.com/BeaverHacks/timetracker.git'''<br>
+```git clone https://github.com/BeaverHacks/timetracker.git```<br>
 '''npm install'''<br>
 '''npm install -g create-react-app'''<br>
 '''npm start'''<br>
